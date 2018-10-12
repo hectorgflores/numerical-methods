@@ -1,3 +1,3 @@
 # numerical-methods
 
-Numerical methods implemented in python
+Numerical methods implemented in python.
